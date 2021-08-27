@@ -7,10 +7,4 @@ def email_check(email):
     else:
         print('WRONG')
 
-
-#email_check(email = input('Please Enter Your Email: '))
-for email in ['1dfdhs@efb.cosf','dhgsfg@kfsdgf5.usdfbs','232@sfe.cs','aminoffline@.yahoo.CoM','abc123@as-f.sfd','fewf@af.586']:
-    email_check(email)
-
-
-
+email_check(email = input('Please Enter Your Email: '))
